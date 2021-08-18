@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\ej1\\ej1.csproj",
-      "projectName": "ej1",
-      "projectPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\ej1\\ej1.csproj",
+      "projectUniqueName": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\ej2\\ej2.csproj",
+      "projectName": "ej2",
+      "projectPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\ej2\\ej2.csproj",
       "packagesPath": "C:\\Users\\EXO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\ej1\\obj\\",
+      "outputPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\ej2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EXO\\AppData\\Roaming\\NuGet\\NuGet.Config"
