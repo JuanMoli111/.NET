@@ -2,7 +2,7 @@
 
 namespace ej2
 {
-    class Program
+    class SecuenciasDeEscape
     {
         static void Main(string[] args)
         {
