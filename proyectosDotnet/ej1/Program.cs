@@ -9,6 +9,8 @@ namespace ej1
             Console.Write("Hola ");
             Console.Read();
             Console.Write("Mundo");
+
+            Console.Read();
         }
     }
 }
