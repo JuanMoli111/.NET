@@ -6,7 +6,9 @@ namespace teoria1
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hola Mundo! Un saludo a toda la comunidad de programadores!!!");
+            string st;
+
+            System.Console.WriteLine(st = System.Console.ReadLine());
 
         }
     }

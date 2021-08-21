@@ -1,0 +1,16 @@
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\bin\Debug\net5.0\ej6.exe
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\bin\Debug\net5.0\ej6.deps.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\bin\Debug\net5.0\ej6.runtimeconfig.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\bin\Debug\net5.0\ej6.runtimeconfig.dev.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\bin\Debug\net5.0\ej6.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\bin\Debug\net5.0\ref\ej6.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\bin\Debug\net5.0\ej6.pdb
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.csproj.AssemblyReference.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.AssemblyInfoInputs.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.AssemblyInfo.cs
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.csproj.CoreCompileInputs.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ref\ej6.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.pdb
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\ej6\obj\Debug\net5.0\ej6.genruntimeconfig.cache
