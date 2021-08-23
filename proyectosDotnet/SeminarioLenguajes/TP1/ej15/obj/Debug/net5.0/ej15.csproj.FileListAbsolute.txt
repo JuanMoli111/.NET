@@ -1,0 +1,16 @@
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\bin\Debug\net5.0\ej15.exe
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\bin\Debug\net5.0\ej15.deps.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\bin\Debug\net5.0\ej15.runtimeconfig.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\bin\Debug\net5.0\ej15.runtimeconfig.dev.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\bin\Debug\net5.0\ej15.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\bin\Debug\net5.0\ref\ej15.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\bin\Debug\net5.0\ej15.pdb
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.csproj.AssemblyReference.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.AssemblyInfoInputs.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.AssemblyInfo.cs
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.csproj.CoreCompileInputs.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ref\ej15.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.pdb
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP1\ej15\obj\Debug\net5.0\ej15.genruntimeconfig.cache
