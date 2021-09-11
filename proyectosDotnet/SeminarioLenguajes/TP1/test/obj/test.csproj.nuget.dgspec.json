@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\TP1\\test\\test.csproj": {}
+    "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\tp1\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\TP1\\test\\test.csproj": {
+    "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\tp1\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\TP1\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\tp1\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\TP1\\test\\test.csproj",
+        "projectPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\tp1\\test\\test.csproj",
         "packagesPath": "C:\\Users\\EXO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\TP1\\test\\obj\\",
+        "outputPath": "C:\\Users\\EXO\\Desktop\\.NET\\proyectosDotnet\\SeminarioLenguajes\\tp1\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EXO\\AppData\\Roaming\\NuGet\\NuGet.Config"
