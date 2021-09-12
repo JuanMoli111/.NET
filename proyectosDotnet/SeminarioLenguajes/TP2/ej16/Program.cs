@@ -26,14 +26,14 @@ namespace ej16
 
         static int FactorialExpBodied(int n) => return (i < 2) ? 1 : (n * FactorialExpBodied(n - 1));
 
-        
+
         static void Main(string[] args)
         {
             Console.WriteLine("Ingrese un numero natural");
 
             int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"El factorial de {n}: " + FactorialRecursivo(n));
+            Console.WriteLine($"El factorial de {n}: " + FactorialExpBodied(n));
 
         }
     }

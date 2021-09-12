@@ -1,0 +1,16 @@
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.csproj.AssemblyReference.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.AssemblyInfoInputs.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.AssemblyInfo.cs
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.csproj.CoreCompileInputs.cache
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\bin\Debug\net5.0\ej17.exe
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\bin\Debug\net5.0\ej17.deps.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\bin\Debug\net5.0\ej17.runtimeconfig.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\bin\Debug\net5.0\ej17.runtimeconfig.dev.json
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\bin\Debug\net5.0\ej17.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\bin\Debug\net5.0\ref\ej17.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\bin\Debug\net5.0\ej17.pdb
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ref\ej17.dll
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.pdb
+C:\Users\EXO\Desktop\.NET\proyectosDotnet\SeminarioLenguajes\TP2\ej17\obj\Debug\net5.0\ej17.genruntimeconfig.cache
