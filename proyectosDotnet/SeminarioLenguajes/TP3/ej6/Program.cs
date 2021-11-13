@@ -5,22 +5,72 @@ namespace ej6
     class Program
     {
 
-        /*static double[,] Suma(double[,] A, double[,] B)
-        {          
+        static double[,] Suma(double[,] A, double[,] B)
+        { 
+
+
+            if((A.GetLength(0) != B.GetLength(0)) || (A.GetLength(1) != B.GetLength(1)))
+            {
+                throw new ArgumentException("Las matrices no se pueden sumar");
+            }
+            else
+            {
+                double[,] aux = new double[A.GetLength(0),A.GetLength(1)];
+            
+
+                for(int i = 0; i < A.GetLength(0); i++)
+                {
+                    
+                    for(int j = 0; j < A.GetLength(1); j++)
+                    {
+
+                        aux[i,j] = A[i,j] + B[i,j];
+                    }
+
+                }
+            
+                return aux;
+            }
         }
+        
         
         static double[,] Resta(double[,] A, double[,] B)
         {
-        }*/
-        
-        
+            if((A.GetLength(0) != B.GetLength(0)) || (A.GetLength(1) != B.GetLength(1)))
+            {
+                throw new ArgumentException("Las matrices no se pueden sumar");
+            }
+            else
+            {
+                double[,] aux = new double[A.GetLength(0),A.GetLength(1)];
+            
 
+                for(int i = 0; i < A.GetLength(0); i++)
+                {
+                    
+                    for(int j = 0; j < A.GetLength(1); j++)
+                    {
+
+                        aux[i,j] = A[i,j] - B[i,j];
+                    }
+
+                }
+
+                return aux;
+            }
+            
+            return null;
+
+        }
+        
+        
 
         static double[,] Multiplicacion(double[,] A, double[,] B)
         {
             if(A.GetLength(1) != B.GetLength(0))
             {
                 throw new ArgumentException("Las matrices no se pueden multiplicar");
+                return null;
             }
             else
             {
@@ -28,7 +78,7 @@ namespace ej6
 
 
                 //Para cada fila y columna de la nueva matriz...
-                for(int i = 0;i < A.GetLength(0); i++)
+                for(int i = 0; i < A.GetLength(0); i++)
                 {   
                     for(int j = 0; j < B.GetLength(1); j++)
                     {
@@ -82,7 +132,7 @@ namespace ej6
                 
                 };
 
-            double [,] resultado = Multiplicacion(matriz1,matriz2);
+            double [,] resultado = Resta(matriz1,matriz2);
 
             
 

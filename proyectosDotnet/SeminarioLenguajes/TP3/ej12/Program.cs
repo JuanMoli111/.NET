@@ -80,7 +80,10 @@ namespace ej12
             Hashtable tablaDescifrado = cargarTablaDescifrado();
 
 
+            
             //mostrarTabla(tablaCifrado);
+
+
 
 
             //LEER TEXTO
@@ -135,6 +138,8 @@ namespace ej12
         
             Console.WriteLine($"Mensaje cifrado: {MensajeCifrado}");
 
+
+            //Reestablecer el estado del Queue, borrando y volviendo a cargar las claves
             ColaClaves.Clear();
 
             for(int j = 0; j < ArregloClaves.Length; j++)
